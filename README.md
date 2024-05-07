@@ -8,7 +8,7 @@ I am open to feedback that can help sharpen my skills.
 ## Projects
 
 - [Word Guesser Game](./word_guesser_game/README.md): A simple word-guessing game developed in Google Colab.
-- [Impromptu Data Analysis](./word_guesser_game/README.md): A simple word guessing game developed in Google Colab.
+- [Impromptu Data Analysis](./impromptu_analysis/README.md): A 20-minute or less analysis I executed for Rookies like me.
 
 
 ## About Me
