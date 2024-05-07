@@ -13,7 +13,7 @@ I am open to feedback that can help sharpen my skills.
 
 ## About Me
 
-I love web scraping, linguistic annotation, data analytics, and machine learning
+I love web scraping, linguistic annotation, data analytics, and machine learning.
 
 ## Contact
 
