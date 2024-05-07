@@ -7,12 +7,13 @@ I am open to feedback that can help sharpen my skills.
 
 ## Projects
 
-- [Word Guesser Game](./word_guesser_game/README.md): A simple word guessing game developed in Google Colab.
+- [Word Guesser Game](./word_guesser_game/README.md): A simple word-guessing game developed in Google Colab.
+- [Impromptu Data Analysis](./word_guesser_game/README.md): A simple word guessing game developed in Google Colab.
 
 
 ## About Me
 
-[I Brief bio about yourself, your skills, and your interests.]
+I love web scraping, linguistic annotation, data analytics, and machine learning
 
 ## Contact
 
