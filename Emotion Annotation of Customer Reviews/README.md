@@ -33,6 +33,7 @@ Built a reusable pipeline for emotion annotation and analysis.
 2. **Data Cleaning and Preprocessing**:
    - Removed duplicates, special characters, and stopwords using **NLTK**.
    - Tokenized and lemmatized text for better feature extraction.
+   - Aspect Segmentation using MS Excel VBA and Spacy Library.
 
 3. **Annotation**:
    - Manually annotated over 4k reviews in MS Excel.
@@ -47,12 +48,14 @@ Built a reusable pipeline for emotion annotation and analysis.
    - Trained an **SVM classifier** for emotion prediction.
    - Used **TF-IDF Vectorization** for text feature extraction.
 
-
-
-
 ## Technologies
-- Python (Requests, BeautifulSoup, NLTK, Pandas, NumPy, Scikit Learn)
-- MS Excel for manual annotation
+- **Web Scraping**: Requests, BeautifulSoup
+- **NLP**: NLTK, Scikit-Learn, Spacy
+- **Visualization**: Matplotlib, Seaborn, Wordcloud
+- **Data Manipulation**: Pandas, NumPy
+- **Annotation**: Microsoft Excel (for manual annotation)
+- **Machine Learning**: Scikit-Learn (SVM)
+
 
 ## Outcome
 - Created an annotated dataset of over 20k reviews.
