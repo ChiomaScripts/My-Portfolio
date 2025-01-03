@@ -55,3 +55,13 @@ This project leverages the [Have I Been Pwned API](https://haveibeenpwned.com/) 
 1. Clone this repository.
 2. Install required libraries.
 3. Run the script.
+
+
+## Example Usage
+
+To use the tool, simply call the `check_password` function and provide a password. Here's an example:
+
+`check_password("QWERTY")`
+
+Expected Output: `Password seems to have leaked 77849 times`
+
