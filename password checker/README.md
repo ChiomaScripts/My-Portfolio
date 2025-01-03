@@ -65,3 +65,13 @@ To use the tool, simply call the `check_password` function and provide a passwor
 
 Expected Output: `Password seems to have leaked 77849 times`
 
+
+## Disclaimer
+
+This tool is intended for **educational purposes only** and should be used responsibly. 
+
+- Do not use this tool to check passwords that are not your own or that you do not have explicit permission to test.
+- Always follow ethical guidelines and respect privacy while using tools for password security analysis.
+- Note that while the tool checks for known breaches, it does not guarantee absolute security. Use it as one layer of your overall cybersecurity strategy.
+
+
