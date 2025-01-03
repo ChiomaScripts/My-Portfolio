@@ -52,7 +52,4 @@ This project leverages the [Have I Been Pwned API](https://haveibeenpwned.com/) 
 
 ## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/password-security-checker.git
-
+1. Clone this repository
