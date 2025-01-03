@@ -21,7 +21,8 @@ This project analyzes customer reviews to predict emotions using Python NLP and 
 - Delivered actionable insights for improving customer satisfaction.
 
 ## Visualizations
-![Emotion Distribution](Emotion%20Distribution.png)
+![Emotion Distribution](
+Emotion%20Distribution.png)
 
 ### 2. Word Cloud for Negative Reviews
 ![Word Cloud for Negative Reviews](Word Cloud for Negative Reviews.png)
