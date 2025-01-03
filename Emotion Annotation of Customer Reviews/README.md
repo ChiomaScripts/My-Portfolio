@@ -26,6 +26,32 @@ Delivered actionable insights to improve customer satisfaction.
 Built a reusable pipeline for emotion annotation and analysis.
 
 ## Steps
+1. **Web Scraping**:
+   - Used BeautifulSoup and Requests to scrape reviews from websites.
+   - Handled edge cases such as pagination and special characters.
+
+2. **Data Cleaning and Preprocessing**:
+   - Removed duplicates, special characters, and stopwords using **NLTK**.
+   - Tokenized and lemmatized text for better feature extraction.
+
+3. **Annotation**:
+   - Manually annotated over 4k reviews in MS Excel.
+   - Created a custom annotation function to classify over 18k reviews into distinct emotions in Python.
+   - Measured inter-annotator agreement using **Cohen's Kappa**.
+
+4. **EDA and Visualization**:
+   - Generated **emotion distribution charts**.
+   - Created **word clouds** to identify frequently used terms for each emotion.
+
+5. **Machine Learning**:
+   - Trained an **SVM classifier** for emotion prediction.
+   - Used **TF-IDF Vectorization** for text feature extraction.
+
+
+
+
+
+## Steps
 1. Data collection by scraping Yelp and Trustpilot websites for customer reviews.
 2. Data cleaning and preprocessing.
 3. Manually annotated over 4k reviews, focused on the 5 distinct emotions.
