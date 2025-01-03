@@ -83,6 +83,6 @@ Built a reusable pipeline for emotion annotation and analysis.
 
 ## How to Run
 - Clone this repository.
-- Install the required libraries using `requirements.txt`.
-- Run `notebook.ipynb`.
+- Install the required libraries.
+- Run the python files.
 
