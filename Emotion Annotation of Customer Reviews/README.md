@@ -16,12 +16,8 @@ This project analyzes customer reviews to predict emotions using Python NLP and 
 - MS Excel for manual annotation
 
 ## Outcome
-- Created an annotated dataset of 20k reviews.
+- Created an annotated dataset of over 20k reviews.
 - Delivered actionable insights for improving customer satisfaction.
-
-## Files
-- `/data`: Contains the dataset (if shareable).
-- `/notebooks`: Contains the code used for analysis and modeling.
 
 ## Visualizations
 ![Sample Chart](path/to/your/chart.png)
