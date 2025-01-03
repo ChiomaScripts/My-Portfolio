@@ -3,7 +3,7 @@
 This project analyzes customer reviews to predict emotions using Python NLP and NLTK libraries.
 
 ## Steps
-1. Collected and preprocessed 20k reviews.
+1. Collected and preprocessed over 20k reviews.
 2. Used manual and automated annotation to classify emotions.
 3. Built a machine-learning model for emotion prediction.
 
