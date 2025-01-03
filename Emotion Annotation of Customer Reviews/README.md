@@ -29,7 +29,7 @@ This project analyzes customer reviews to predict emotions using Python NLP and 
 
 ### 3. Word Cloud for Positive Reviews
 ![Word Cloud for Positive Reviews](Word%20Cloud%20for%20Positive%20Reviews.png)
-![Sample Chart](path/to/your/chart.png)
+
 
 ## How to Run
 - Clone this repository.
