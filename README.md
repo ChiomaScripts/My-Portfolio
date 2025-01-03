@@ -1,5 +1,5 @@
 # My-Portfolio
-Welcome to my Github portfolio! Take a look at projects related to AI, data analytics, and Python development I have worked on.
+Welcome to my GitHub portfolio! Take a look at projects related to AI, data analytics, and Python development I have worked on.
 
 I am open to feedback that can help sharpen my skills.
 
