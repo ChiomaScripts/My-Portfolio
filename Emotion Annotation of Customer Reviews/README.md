@@ -25,10 +25,10 @@ This project analyzes customer reviews to predict emotions using Python NLP and 
 Emotion%20Distribution.png)
 
 ### 2. Word Cloud for Negative Reviews
-![Word Cloud for Negative Reviews](Word Cloud for Negative Reviews.png)
+![Word Cloud for Negative Reviews](Word%20Cloud%20for%20Negative%20Reviews.png)
 
 ### 3. Word Cloud for Positive Reviews
-![Word Cloud for Positive Reviews](Word Cloud for Positive Reviews.png)
+![Word Cloud for Positive Reviews](Word%20Cloud%20for%20Positive%20Reviews.png)
 ![Sample Chart](path/to/your/chart.png)
 
 ## How to Run
