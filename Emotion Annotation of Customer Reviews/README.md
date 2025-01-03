@@ -1,6 +1,7 @@
 # Understanding Customer Preferences Through Emotion Annotation
 ## Project Overview
-This project analyzes customer reviews to predict emotions using Python NLP and NLTK libraries.
+This project aims to understand customer preferences by analyzing and annotating emotions in customer reviews. It involves a combination of manual annotation, automated emotion detection, and machine learning for emotion prediction.
+The project showcases the application of Python NLP libraries, web scraping techniques, and advanced machine learning methodologies to extract insights from textual data.
 
 ## Steps
 1. Data collection by scraping Yelp and Trustpilot websites for customer reviews.
