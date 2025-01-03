@@ -8,20 +8,20 @@ The project showcases the application of Python NLP libraries, web scraping tech
 ### 1. Data Collection: 
 Reviews were scraped from trusted sources like Yelp and Trustpilot.
 Python's Requests and BeautifulSoup libraries were used for efficient data scraping.
-Emotion Annotation:
 
+### 2. Emotion Annotation:
 Over 4,000 reviews were manually annotated with emotions such as Happiness, Sadness, Anger, and others.
 A custom Python function was developed to annotate an additional 18,000 reviews automatically.
-Exploratory Data Analysis (EDA):
 
+### 3. Exploratory Data Analysis (EDA):
 Insights into the spread of emotions across reviews were visualized using Matplotlib and Seaborn.
 Word clouds were generated to highlight frequently used words for each emotion.
-Model Training:
 
+### 4. Model Training:
 A machine learning model was built using Scikit-Learn to predict emotions in reviews.
 The annotated dataset served as training data, and model performance was evaluated using metrics such as accuracy, recall, and F1-score.
-Outcome:
 
+### 5. Outcome:
 Delivered actionable insights to improve customer satisfaction.
 Built a reusable pipeline for emotion annotation and analysis.
 
