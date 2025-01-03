@@ -1,5 +1,5 @@
 # Understanding Customer Preferences Through Emotion Annotation
-## Overview
+## Project Overview
 This project analyzes customer reviews to predict emotions using Python NLP and NLTK libraries.
 
 ## Steps
@@ -8,8 +8,8 @@ This project analyzes customer reviews to predict emotions using Python NLP and 
 3. Built a machine-learning model for emotion prediction.
 
 ## Technologies
-- Python (NLTK, Pandas, NumPy)
-- Excel for manual annotation
+- Python (NLTK, Pandas, NumPy, Scikit Learn)
+- MS Excel for manual annotation
 
 ## Outcome
 - Created an annotated dataset of 20k reviews.
