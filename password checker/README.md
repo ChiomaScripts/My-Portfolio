@@ -52,4 +52,6 @@ This project leverages the [Have I Been Pwned API](https://haveibeenpwned.com/) 
 
 ## How to Run
 
-1. Clone this repository
+1. Clone this repository.
+2. Install required libraries.
+3. Run the script.
