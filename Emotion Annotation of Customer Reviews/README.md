@@ -1,7 +1,29 @@
 # Understanding Customer Preferences Through Emotion Annotation
 ## Project Overview
 This project aims to understand customer preferences by analyzing and annotating emotions in customer reviews. It involves a combination of manual annotation, automated emotion detection, and machine learning for emotion prediction.
+
 The project showcases the application of Python NLP libraries, web scraping techniques, and advanced machine learning methodologies to extract insights from textual data.
+
+## Project Highlights
+### 1. Data Collection: 
+Reviews were scraped from trusted sources like Yelp and Trustpilot.
+Python's Requests and BeautifulSoup libraries were used for efficient data scraping.
+Emotion Annotation:
+
+Over 4,000 reviews were manually annotated with emotions such as Happiness, Sadness, Anger, and others.
+A custom Python function was developed to annotate an additional 18,000 reviews automatically.
+Exploratory Data Analysis (EDA):
+
+Insights into the spread of emotions across reviews were visualized using Matplotlib and Seaborn.
+Word clouds were generated to highlight frequently used words for each emotion.
+Model Training:
+
+A machine learning model was built using Scikit-Learn to predict emotions in reviews.
+The annotated dataset served as training data, and model performance was evaluated using metrics such as accuracy, recall, and F1-score.
+Outcome:
+
+Delivered actionable insights to improve customer satisfaction.
+Built a reusable pipeline for emotion annotation and analysis.
 
 ## Steps
 1. Data collection by scraping Yelp and Trustpilot websites for customer reviews.
