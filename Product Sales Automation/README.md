@@ -29,7 +29,9 @@ This project automates the process of reading product sales transaction data fro
 ## 📜 Usage
 
 1. **Clone the Repository**
-  git clone https://github.com/ChiomaScripts/My-Portfolio.git cd my-portfolio/product-sales-automation
+```sh
+git clone https://github.com/ChiomaScripts/My-Portfolio.git
+cd My-Portfolio/product-sales-automation
 
 
 3. **Install Dependencies**
