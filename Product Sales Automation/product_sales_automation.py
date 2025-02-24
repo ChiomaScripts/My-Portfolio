@@ -13,7 +13,7 @@ with open("product_sales.txt", "r", encoding="utf-8") as file:
     lines = file.readlines()
 
     for line in lines:
-        product_id = line.strip() #to remove newline  whitespace
+        product_id = line.strip() #to remove newline/whitespace
 
         if product_id in products_map["product_id"]:
             index = products_map["product_id"].index(product_id)
