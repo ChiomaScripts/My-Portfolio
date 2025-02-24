@@ -34,7 +34,7 @@ This project automates the process of reading product sales transaction data fro
 https://github.com/ChiomaScripts/My-Portfolio.git
 ```
    Then, navigate to the project folder:
-cd My-Portfolio/product-sales-automation
+`cd My-Portfolio/product-sales-automation`
 
 
 2. **Install Dependencies**
