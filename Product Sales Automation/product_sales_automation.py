@@ -35,7 +35,7 @@ with open("product_sales.csv", "w", newline="", encoding="utf-8") as csv_file:
 
     csv_writer.writerows(transaction_report)
 
-
+# Additional Analysis
 import pandas as pd
 
 df = pd.read_csv("product_sales.csv")
