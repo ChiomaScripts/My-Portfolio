@@ -29,16 +29,16 @@ This project automates the process of reading product sales transaction data fro
 ## 📜 Usage
 
 1. **Clone the Repository**
-  git clone https://github.com/yourusername/product-sales-automation.git
-cd product-sales-automation
+  git clone https://github.com/ChiomaScripts/My-Portfolio.git cd my-portfolio/product-sales-automation
 
-2. **Install Dependencies**
+
+3. **Install Dependencies**
    Ensure you have Python installed (preferably 3.x) and install the required package `pip install pandas`
 
-3. **Run the Script**
+4. **Run the Script**
    `python product_sales_tracker-project.py`
 
-4. **View Results**
+5. **View Results**
    - Processed transaction data will be saved in `product_sales.csv`.
    - Sales summary will be displayed in the terminal.
 
