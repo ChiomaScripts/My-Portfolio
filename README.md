@@ -7,6 +7,7 @@ I am passionate about turning data into actionable insights, and I believe **pas
 ## Projects
 
 - [Emotion Annotation of Customer Reviews](./Emotion%20Annotation%20of%20Customer%20Reviews/README.md): Understanding Customer Preferences through Emotion Annotation of Reviews.
+- [Product Sales Automation](./Product%20Sales%20Automation/README.md): A program that automates the process of reading product sales transaction data from a text file.
 - [password checker](./password%20checker/README.md): A Python program that checks if a password has been exposed in a data breach.
 - [Word Guesser Game](./word_guesser_game/README.md): A simple word-guessing game developed in Google Colab.
 - [Impromptu Data Analysis](./impromptu_analysis/README.md): A 20-minute or less data analysis for beginners.
