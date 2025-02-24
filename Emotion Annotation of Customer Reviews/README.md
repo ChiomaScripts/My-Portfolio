@@ -1,6 +1,6 @@
 # Understanding Customer Preferences Through Emotion Annotation
 ## Project Overview
-This project aims to understand customer preferences by analyzing and annotating emotions in customer reviews. It involves a combination of manual annotation, automated emotion detection, and machine learning for emotion prediction.
+This project aims to understand customer preferences by analysing and annotating emotions in customer reviews. It involves a combination of manual annotation, automated emotion detection, and machine learning for emotion prediction.
 
 The project showcases the application of Python NLP libraries, web scraping techniques, and advanced machine learning methodologies to extract insights from textual data.
 
