@@ -12,11 +12,11 @@ This project automates the process of reading product sales transaction data fro
 - Performs sales analysis, grouping transactions and calculating total revenue per product.
 
 ## 📂 Project Structure
-|-- product_sales.txt # Input file containing product sales transactions 
+```|-- product_sales.txt # Input file containing product sales transactions 
 |-- product_sales.csv # Output file with processed transaction data 
 |-- sales_analysis.py # Python script performing sales aggregation 
 |-- main.py           # Main script handling file processing & CSV generation 
-|-- README.md         # Project documentation 
+|-- README.md         # Project documentation ```
 
 ## 🚀 Technologies Used
 - **Python**
