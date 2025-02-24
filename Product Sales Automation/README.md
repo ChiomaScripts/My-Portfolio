@@ -29,9 +29,11 @@ This project automates the process of reading product sales transaction data fro
 ## 📜 Usage
 
 1. **Navigate to the Directory**
+   Copy and run the following command:
 ```
 https://github.com/ChiomaScripts/My-Portfolio.git
 ```
+   Then, navigate to the project folder:
 cd My-Portfolio/product-sales-automation
 
 
