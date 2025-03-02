@@ -28,13 +28,10 @@ This project automates the process of reading product sales transaction data fro
 ## 📜 Usage
 
 1. **Navigate to the Directory**
-   Copy and run the following command:
+   Copy and run the following link:
 ```
-https://github.com/ChiomaScripts/My-Portfolio.git
+[https://github.com/ChiomaScripts/My-Portfolio.git](https://github.com/ChiomaScripts/My-Portfolio/tree/aef708c77c62b6be3fa919fee0f052ba1bf07976/Product%20Sales%20Automation)
 ```
-   Then, navigate to the project folder:
-`cd My-Portfolio/product-sales-automation`
-
 
 2. **Install Dependencies**
    Ensure you have Python installed (preferably 3.x) and install the required package `pip install pandas`
