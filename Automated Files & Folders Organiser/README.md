@@ -62,3 +62,16 @@ Project Summary:
 Folder cleanup complete!
 ```
 
+## 🛠 Future Improvements
+- 🔹 Implement undo functionality in case of accidental file movement.
+- 🔹 Add functionality (perhaps a `while loop`) to continuously prompt user to enter a valid path.
+- 🔹 Add logging support to track file movements (perhaps using `logging` module in Python).
+- 🔹 Enhance GUI version for user-friendly experience.
+
+## ⚠️ Important Notes
+- ❗ Use with caution: Deleting "temp" folders is permanent.
+- It is advisable to use the files provided with this code as found in the `messy_folder`.
+
+## 📜 License
+This project is licensed under the **MIT License**.
+Copyright (c) 2025 [ChiomaScripts]
