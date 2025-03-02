@@ -1,7 +1,7 @@
 # 📂 Automated File & Folder Organiser
 
 ## 📌 Project Overview
-This Python script acts as a **"digital janitor"**, automating the organization of files and folders within a user-specified directory. It categorizes text files (`.txt`), CSV files (`.csv`), and directories, while also **removing unnecessary temporary folders**.
+This Python script acts as a **"digital janitor"**, automating the organisation of files and folders within a user-specified directory. It categorises text files (`.txt`), CSV files (`.csv`), and directories, while also **removing unnecessary temporary folders**.
 
 ## 🔧 Features
 - ✅ **Moves files into categorized subfolders** (`txt_files`, `csv_files`, `folders`).
