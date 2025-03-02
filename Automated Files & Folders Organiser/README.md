@@ -4,7 +4,7 @@
 This Python script acts as a **"digital janitor"**, automating the organisation of files and folders within a user-specified directory. It categorises text files (`.txt`), CSV files (`.csv`), and directories, while also **removing unnecessary temporary folders**.
 
 ## 🔧 Features
-- ✅ **Moves files into categorized subfolders** (`txt_files`, `csv_files`, `folders`).
+- ✅ **Moves files into categorised subfolders** (`txt_files`, `csv_files`, `folders`).
 - ✅ **Deletes unwanted "temp" directories** and their contents.
 - ✅ **Moves all other files into a general storage directory (`closet`).**
 - ✅ **Provides a summary report** after organizing the directory.
