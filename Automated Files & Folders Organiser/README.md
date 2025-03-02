@@ -26,7 +26,7 @@ This Python script acts as a **"digital janitor"**, automating the organization 
 
 1. **Navigate to the Project Directory**
 ```
-https://github.com/ChiomaScripts/My-Portfolio/automated_files_&_folders_organiser
+https://github.com/ChiomaScripts/My-Portfolio/tree/bde6e62310c82c08ba9af2d153c1dbab9659891c/Automated%20Files%20%26%20Folders%20Organiser
 ```
 
 2. **Run the Script**
