@@ -45,3 +45,20 @@ https://github.com/ChiomaScripts/My-Portfolio/tree/bde6e62310c82c08ba9af2d153c1d
      - 📂 `folders` → Stores all non-temp folders.
    - **"temp" directories will be permanently deleted**.
    - A summary report will be displayed
+
+## 📊 Example Run Output
+```
+Enter the path to the directory you want to organise: C:\Users\John\Documents\UnsortedFiles
+The directory exists!
+Subfolders successfully created
+
+Project Summary:
+
+3 temp folders successfully deleted
+7 csv files successfully moved to the csv folder
+5 txt files moved to the txt folder
+4 folders moved to folders directory
+8 other files moved into closet folder
+Folder cleanup complete!
+```
+
