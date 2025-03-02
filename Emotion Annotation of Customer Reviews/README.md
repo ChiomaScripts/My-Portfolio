@@ -82,7 +82,13 @@ Built a reusable pipeline for emotion annotation and analysis.
 
 
 ## How to Run
-- Clone this repository.
-- Install the required libraries.
-- Run the python files.
+1. **Navigate to the project directory**
+   Copy and run the following link:
+```
+https://github.com/ChiomaScripts/My-Portfolio/tree/5848a1740119b36612f1662a00dad9d372378ffd/Emotion%20Annotation%20of%20Customer%20Reviews
+```
+
+2. **Install the required libraries.**
+   
+3. **Run the python files.**
 
