@@ -61,7 +61,7 @@ Built a reusable pipeline for emotion annotation and analysis.
 - Created an annotated dataset of over 20k reviews.
 - Delivered actionable insights for improving customer satisfaction.
 
-## Visualizations
+## Visualisations
 ### 1. Manual Annotation in MS Excel
 ![Manual Annotation](Manual%20Annotation%20in%20MS%20Excel.png)
 
