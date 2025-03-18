@@ -12,7 +12,7 @@ I am passionate about turning data into actionable insights, and I believe **pas
 - [contact Info Extractor](./contact%20Info%20Extractor/README.md): A Python script that scans a text file for phone numbers, email addresses and website URLs, then extracts and saves them in separate files for easy access.
 - [password checker](./password%20checker/README.md): A Python program that checks if a password has been exposed in a data breach.
 - [Instagram Analytics Dashboard](https://github.com/ChiomaScripts/Instagram_Analytics_Dashboard/blob/main/README.md): A fully interactive dashboard built with Streamlit, Pandas, and Plotly to analyse Instagram engagement metrics.
-- [England & Wales Housing Trends Analysis](https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends/blob/main/README.md): 
+- [England & Wales Housing Trends Analysis](https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends/blob/main/README.md): A project performs Data Preparation, Exploratory Data Analysis (EDA), and Interactive Visualisation on household tenure statistics in England and Wales.
 - [Word Guesser Game](./word_guesser_game/README.md): A simple word-guessing game developed in Google Colab.
 - [Impromptu Data Analysis](./impromptu_analysis/README.md): A 20-minute or less data analysis for beginners.
 
