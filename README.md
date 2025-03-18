@@ -16,7 +16,7 @@ I am passionate about turning data into actionable insights, and I believe **pas
 
 ## About Me
 
-I’m Chioma Okpala, a **data scientist** with a passion for:
+I’m Chioma (Queeneth) Okpala, a **data scientist** with a passion for:
 - **Data Science**: Leveraging data to uncover patterns, predict trends, and solve complex problems.
 - **Web Scraping**: Extracting valuable data from websites for analysis.
 - **Linguistic Annotation**: Analyzing and labeling text data for machine learning projects.
