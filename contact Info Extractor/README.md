@@ -36,7 +36,7 @@ This Python script scans a text file for **phone numbers, email addresses, and w
 1. **Navigate to the Project Directory**
    Copy and run the following link:
 ```
-https://github.com/ChiomaScripts/My-Portfolio/tree/bde6e62310c82c08ba9af2d153c1dbab9659891c/Automated%20Files%20%26%20Folders%20Organiser
+https://github.com/ChiomaScripts/My-Portfolio/tree/main/contact%20Info%20Extractor
 ```
 
 2. **Prepare the input file**
