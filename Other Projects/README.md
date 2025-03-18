@@ -1,2 +1,0 @@
-- [Instagram Analytics Dashboard](https://github.com/ChiomaScripts/Instagram_Analytics_Dashboard/blob/main/README.md): A fully interactive dashboard built with `Streamlit`, `Pandas`, and `Plotly` to analyse Instagram engagement metrics.
-- [England & Wales Housing Trends Analysis](https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends/blob/main/README.md): A project that explores and analyses data on household tenure statistics in England and Wales. The analysis explores **homeownership vs renting trends** across different administrative levels.
