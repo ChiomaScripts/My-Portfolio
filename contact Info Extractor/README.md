@@ -1,5 +1,5 @@
-# ![image](https://github.com/user-attachments/assets/79d7a327-7b75-4113-9977-7e0c5c3cea9c)
- Contact Info Extractor
+# ![dashboard_snapshot3](https://github.com/user-attachments/assets/79d6170a-95f3-430d-a9da-d7754fd9a51e)
+Contact Info Extractor
 
 ## 📌 Project Overview
 This Python script scans a text file for **phone numbers, email addresses, and website URLs**, then extracts them into **separate text files** for easy access. It uses **regular expressions (regex)** to perform the extraction and **file operations** to store the results.
