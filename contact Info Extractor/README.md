@@ -43,7 +43,7 @@ https://github.com/ChiomaScripts/My-Portfolio/tree/main/contact%20Info%20Extract
    Ensure the text file `(example_email.txt)` contains the contact information you want to extract.
 
 3. **Run the Script**
-   `python contact_info_extractor_project.py`
+   `contact_info_extractor_project.py`
 
 4. **View Extracted Data**
    The script will create and store extracted details in:
