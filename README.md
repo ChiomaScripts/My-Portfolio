@@ -11,7 +11,7 @@ I am passionate about turning data into actionable insights, and I believe **pas
 - [Automated Files & Folders Organiser](./Automated%20Files%20&%20Folders%20Organiser/README.md): A Python script that organizes files, moves directories, and removes temp folders.
 - [contact Info Extractor](./contact%20Info%20Extractor/README.md): A Python script that scans a text file for phone numbers, email addresses and website URLs, then extracts and saves them in separate files for easy access.
 - [password checker](./password%20checker/README.md): A Python program that checks if a password has been exposed in a data breach.
-- [Instagram Analytics Dashboard](.../Instagram_Analytics_Dashboard/README.md): 
+- [Instagram Analytics Dashboard](/Instagram_Analytics_Dashboard/README.md): 
 - [Word Guesser Game](./word_guesser_game/README.md): A simple word-guessing game developed in Google Colab.
 - [Impromptu Data Analysis](./impromptu_analysis/README.md): A 20-minute or less data analysis for beginners.
 
