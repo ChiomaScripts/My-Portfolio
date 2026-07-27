@@ -7,6 +7,14 @@ This repository contains selected Python and data engineering projects. For deta
 
 ## Projects
 
+### 🔍 Splunk Alerting & Observability Framework *(Private)*
+Production real-time event correlation and alerting framework 
+built for live trading operations. Detects settlement failures, 
+feed dropouts, and sequencing anomalies across 30+ simultaneous 
+live fixtures. Alerting systems saving £250K+ monthly.  
+**Stack:** Splunk · SPL · Python · Prometheus · Grafana · Loki  
+*Available for review on request*
+
 - [Emotion Annotation of Customer Reviews](./Emotion%20Annotation%20of%20Customer%20Reviews/README.md): Understanding Customer Preferences through Emotion Annotation of Reviews.
 - [England & Wales Housing Trends Analysis](https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends/blob/main/README.md): A project that performs Data Preparation, Exploratory Data Analysis (EDA), and Interactive Visualisation on household tenure statistics in England and Wales.
 - [Product Sales Automation](./Product%20Sales%20Automation/README.md): A program that automates the process of reading product sales transaction data from a text file.
