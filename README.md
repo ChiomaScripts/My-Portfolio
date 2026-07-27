@@ -1,7 +1,8 @@
-# My-Portfolio
-Welcome to my GitHub portfolio! Here, you'll find projects showcasing my skills in AI, data analytics, web scraping, and Python development.
+# Chioma Queeneth Okpala
 
-I am passionate about turning data into actionable insights, and I believe **passion + practice = perfection**. If I can achieve it, so can you!
+Observability & SRE engineer building production-grade monitoring, alerting, and data pipeline infrastructure.
+
+This repository contains selected Python and data engineering projects. For detailed observability and SRE case studies, please get in touch directly.
 
 
 ## Projects
@@ -35,7 +36,8 @@ Dean's Prize for Innovation & Impact (University of Bradford)
 
 I thrive at the intersection of curiosity and problem-solving.
 
-
+## Contact
+[linkedin.com/in/chioma-okpala](https://linkedin.com/in/chioma-okpala)  
 ## Contact
 
 www.linkedin.com/in/chioma-okpala 
