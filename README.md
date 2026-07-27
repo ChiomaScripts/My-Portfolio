@@ -8,18 +8,12 @@ This repository contains selected Python and data engineering projects. For deta
 ## Projects
 
 ### 🔍 Splunk Alerting & Observability Framework *(Private)*
-Production real-time event correlation and alerting framework 
-built for live trading operations. Detects settlement failures, 
-feed dropouts, and sequencing anomalies across 30+ simultaneous 
-live fixtures. Alerting systems saving £250K+ monthly.  
+Production real-time event correlation and alerting framework built for live trading operations. Detects settlement failures, feed dropouts, and sequencing anomalies across 30+ simultaneous live fixtures. Alerting systems saving £250K+ monthly.  
 **Stack:** Splunk · SPL · Python · Prometheus · Grafana · Loki  
 *Available for review on request*
 
 ### 🧬 Synthetic Data Generation — Financial Transactions *(Private)*
-GAN-based synthetic data generation system achieving 98% 
-statistical alignment with real financial transaction data — 
-directly enabling product launch. Awarded Dean's Prize for 
-Innovation & Impact, University of Bradford.  
+GAN-based synthetic data generation system achieving 98% statistical alignment with real financial transaction data — directly enabling product launch. Awarded Dean's Prize for Innovation & Impact, University of Bradford.  
 **Stack:** Python · CTGAN · GANs · Scikit-Learn · Pandas  
 *Available for review on request*
 
