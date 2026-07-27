@@ -19,14 +19,15 @@ I am passionate about turning data into actionable insights, and I believe **pas
 
 ## About Me
 
-I’m Chioma (Queeneth) Okpala, a **data scientist** with a passion for:
-- **Data Science**: Leveraging data to uncover patterns, predict trends, and solve complex problems.
-- **Web Scraping**: Extracting valuable data from websites for analysis.
-- **Linguistic Annotation**: Analyzing and labeling text data for machine learning projects.
-- **Data Analytics**: Uncovering actionable insights from raw datasets.
-- **Machine Learning**: Building predictive models to drive decision-making and solve problems.
+Observability & SRE engineer with production experience building real-time alerting, monitoring, and data pipeline infrastructure in high-stakes environments.
 
-With a strong foundation in **Python programming** and tools like **Pandas**, **Scikit-Learn**, and **NLTK**, I aim to create impactful solutions that transform data into meaningful outcomes.
+**What I work with:**
+- 🔍 **Observability** — Splunk, Prometheus, Grafana, Loki, PromQL, LogQL, SPL
+- 🤖 **AI/ML** — Python, RAG pipelines, GANs, CTGAN, AWS Bedrock, Scikit-Learn
+- ☁️ **Cloud & Backend** — FastAPI, PostgreSQL, AWS, Docker, Linux
+
+
+
 I thrive at the intersection of curiosity and problem-solving.
 
 
