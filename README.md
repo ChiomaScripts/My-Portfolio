@@ -34,14 +34,8 @@ MSc Applied AI & Data Analytics — Distinction
 Dean's Prize for Innovation & Impact (University of Bradford)
 
 ---
-📎 *Detailed project case studies available on request*
 
-I thrive at the intersection of curiosity and problem-solving.
+📎 *Detailed project case studies available on request*
 
 ## Contact
 [linkedin.com/in/chioma-okpala](https://linkedin.com/in/chioma-okpala)  
-## Contact
-
-www.linkedin.com/in/chioma-okpala 
-
-Feel free to explore, give feedback, and connect with me! Let's build something amazing together. 🚀
