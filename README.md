@@ -17,6 +17,8 @@ This repository contains selected Python and data engineering projects. For deta
 - [Word Guesser Game](./word_guesser_game/README.md): A simple word-guessing game developed in Google Colab.
 - [Impromptu Data Analysis](./impromptu_analysis/README.md): A 20-minute or less data analysis for beginners.
 
+---
+
 ## About Me
 
 Observability & SRE engineer with production experience building real-time alerting, monitoring, and data pipeline infrastructure in high-stakes environments.
