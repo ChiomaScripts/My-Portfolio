@@ -15,10 +15,6 @@ I am passionate about turning data into actionable insights, and I believe **pas
 - [password checker](./password%20checker/README.md): A Python program that checks if a password has been exposed in a data breach.
 - [Word Guesser Game](./word_guesser_game/README.md): A simple word-guessing game developed in Google Colab.
 - [Impromptu Data Analysis](./impromptu_analysis/README.md): A 20-minute or less data analysis for beginners.
-**Certifications:**  
-Splunk Core Certified · PCAP Certified Python Developer  
-MSc Applied AI & Data Analytics — Distinction  
-Dean's Prize for Innovation & Impact (University of Bradford)
 
 ## About Me
 
@@ -33,6 +29,9 @@ Observability & SRE engineer with production experience building real-time alert
 Splunk Core Certified · PCAP Certified Python Developer  
 MSc Applied AI & Data Analytics — Distinction  
 Dean's Prize for Innovation & Impact (University of Bradford)
+
+---
+📎 *Detailed project case studies available on request*
 
 I thrive at the intersection of curiosity and problem-solving.
 
