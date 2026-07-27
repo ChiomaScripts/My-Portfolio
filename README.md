@@ -25,12 +25,11 @@ Observability & SRE engineer with production experience building real-time alert
 - 🔍 **Observability** — Splunk, Prometheus, Grafana, Loki, PromQL, LogQL, SPL
 - 🤖 **AI/ML** — Python, RAG pipelines, GANs, CTGAN, AWS Bedrock, Scikit-Learn
 - ☁️ **Cloud & Backend** — FastAPI, PostgreSQL, AWS, Docker, Linux
-
+  
 **Certifications:**  
 Splunk Core Certified · PCAP Certified Python Developer  
 MSc Applied AI & Data Analytics — Distinction  
 Dean's Prize for Innovation & Impact (University of Bradford)
-
 
 I thrive at the intersection of curiosity and problem-solving.
 
