@@ -7,6 +7,11 @@ This repository contains selected Python and data engineering projects. For deta
 
 ## Projects
 
+### ☁️ [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)
+Hands-on cloud infrastructure and DevOps engineering projects covering Linux administration, application deployment, automation, CI/CD, and infrastructure management.
+**Stack:** DigitalOcean · Linux · SSH · Java · Gradle · Docker · Kubernetes · Terraform · Jenkins
+*Includes implementation walkthroughs, technical documentation, troubleshooting insights, and deployment evidence. Projects added progressively.*
+
 ### 🔍 Splunk Alerting & Observability Framework *(Private)*
 Production real-time event correlation and alerting framework built for live trading operations. Detects settlement failures, feed dropouts, and sequencing anomalies across 30+ simultaneous live fixtures. Alerting systems saving £250K+ monthly.  
 **Stack:** Splunk · SPL · Python · Prometheus · Grafana · Loki  
