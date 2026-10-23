@@ -8,7 +8,7 @@ This repository contains selected Python, application development, and observabi
 ## Projects
 
 ### ☁️ [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)
-Hands-on cloud infrastructure and DevOps engineering projects covering Linux administration, application deployment, automation, CI/CD, and infrastructure management.
+Hands-on cloud infrastructure and DevOps engineering projects covering Linux administration, application deployment, automation, CI/CD, and infrastructure management.                 
 **Stack:** DigitalOcean · Linux · SSH · Java · Gradle · Docker · Kubernetes · Terraform · Jenkins                                                                                       
 *Includes implementation walkthroughs, technical documentation, troubleshooting insights, and deployment evidence. Projects added progressively.*
 
