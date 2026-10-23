@@ -1,8 +1,8 @@
 # Chioma Queeneth Okpala
 
-Observability & SRE engineer building production-grade monitoring, alerting, and data pipeline infrastructure.
+Observability & Application Support Engineer building production-grade monitoring, alerting, AI-powered applications, and data pipeline infrastructure.
 
-This repository contains selected Python and data engineering projects. For detailed observability and SRE case studies, please get in touch directly.
+This repository contains selected Python, application development, and observability engineering projects. For detailed observability and SRE case studies, please get in touch directly.
 
 
 ## Projects
@@ -56,7 +56,7 @@ Smaller scripts and exercises from earlier in my learning journey — kept here 
 
 ## About Me
 
-Observability & SRE engineer with production experience building real-time alerting, monitoring, and data pipeline infrastructure in high-stakes environments.
+Observability & Application Support Engineer with production experience building real-time alerting, monitoring, AI-powered applications, and data pipeline infrastructure in high-stakes environments.
 
 **What I work with:**
 - 🔍 **Observability** — Splunk, Prometheus, Grafana, Loki, PromQL, LogQL, SPL
